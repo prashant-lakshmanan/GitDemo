@@ -17,6 +17,7 @@ public class TestScript extends BaseClass{
 		driver.get("https://demowebshop.tricentis.com/");
 		Assert.assertEquals(driver.getTitle(), "Demo Web Shopp","Not welcome page");
 		Reporter.log("DWS welcome page");
+		System.out.println("Git Text");
 	}
 
 }
