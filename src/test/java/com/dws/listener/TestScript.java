@@ -18,6 +18,7 @@ public class TestScript extends BaseClass{
 		Assert.assertEquals(driver.getTitle(), "Demo Web Shopp","Not welcome page");
 		Reporter.log("DWS welcome page");
 		System.out.println("Git Text");
+		System.out.println("New Line");
 	}
 
 }
