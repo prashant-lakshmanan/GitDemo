@@ -19,6 +19,8 @@ public class TestScript extends BaseClass{
 		Reporter.log("DWS welcome page");
 		System.out.println("Git Text");
 		System.out.println("New Line");
+		System.out.println("Another line");
+		System.out.println("In develop branch");
 	}
 
 }
