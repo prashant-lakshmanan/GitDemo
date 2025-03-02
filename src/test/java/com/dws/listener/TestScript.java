@@ -28,8 +28,6 @@ public class TestScript extends BaseClass{
 		 * b
 		 * c
 		 * d
-=======
->>>>>>> master
 		 */
 	}
 
