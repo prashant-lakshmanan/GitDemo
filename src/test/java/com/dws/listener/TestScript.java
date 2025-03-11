@@ -30,6 +30,7 @@ public class TestScript extends BaseClass{
 		a
 		b
 		*/
+		/*Test*/
 		
 	}
 
