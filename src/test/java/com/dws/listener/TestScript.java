@@ -24,6 +24,12 @@ public class TestScript extends BaseClass{
 		 * 2
 		 * 3
 		 */
+
+		/*
+		a
+		b
+		*/
+		
 	}
 
 }
